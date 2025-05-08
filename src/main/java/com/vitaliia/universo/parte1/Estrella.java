@@ -1,4 +1,4 @@
-package org.example;
+package com.vitaliia.universo.parte1;
 
 public class Estrella extends CuerpoCeleste {
     private double temperaturaSuperficial; // en Kelvin
